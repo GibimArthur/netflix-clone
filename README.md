@@ -14,5 +14,4 @@ Plugin Jquery;
 Responsividade.
 
 
-
-
+![breaking_bad_netflix](https://user-images.githubusercontent.com/73749439/115040206-91eeb780-9ea7-11eb-9bb5-9c608dfefedc.png)
